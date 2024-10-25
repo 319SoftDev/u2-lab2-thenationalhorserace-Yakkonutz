@@ -46,6 +46,9 @@ button {
   background-color: #91807e;
 }
 
+#reset-button:hover {
+  background-color: lightgreen;
+} 
 #blue-horse {
   grid-column: 1;
 }
